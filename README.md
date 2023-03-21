@@ -1,3 +1,1 @@
-# h1 Heading
-
-Jim's Portfolio
+# Jim's Portfolio
